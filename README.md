@@ -8,6 +8,28 @@ MODUL 5
 ---
 ![image](https://user-images.githubusercontent.com/112471006/206718270-9d967a1a-984b-455e-af8d-36f28db16aef.png)
 ---
+
+## A
+![image](https://user-images.githubusercontent.com/112471006/206860750-c20ed1d3-75ef-43ef-9ea7-a23c7c7f3449.png)
+<br>Eden is a DNS Server
+WISE is DHCP Server
+Garden and SSS are Web Servers
+The number of hosts on Forger is 62 hosts
+Host count on Desmond is 700 hosts
+The number of hosts on Blackbell is 255 hosts
+The number of hosts on Briar is 200 hosts
+
+## B
+VLSM <br>
+![image](https://user-images.githubusercontent.com/112471006/206860780-ca471ddc-1ea0-4e0e-bcf5-bea1f2eee331.png)
+
+Tree
+![image](https://user-images.githubusercontent.com/112471006/206860866-ae6e3ea8-468b-485a-b376-6c400625b563.png) <br>
+![image](https://user-images.githubusercontent.com/112471006/206860860-45b2ad85-5f00-4f73-b624-547b30f32f7a.png)
+
+
+
+
 ## No 1
 In order for your topology to have external access, you are required to configure Strix using iptables, but Loid doesn't want to use MASQUERADE.
 
