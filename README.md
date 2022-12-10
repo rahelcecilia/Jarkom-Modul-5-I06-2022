@@ -25,3 +25,5 @@ Because we have 2 Web Servers, Loid wants Ostania to be arranged so that every r
 
 ## No 6
 Because Loid wants to know what packets were dropped, each server and router node added logging packets that were dropped at the standard syslog level.
+
+Loid berterima kasih pada kalian karena telah membantunya. Loid juga mengingatkan agar semua aturan iptables harus disimpan pada sistem atau paling tidak kalian menyediakan script sebagai backup.
