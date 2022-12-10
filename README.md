@@ -258,6 +258,22 @@ INTERFACES="eth0 eth1 eth2 eth3"
 OPTIONS=""
 ```
 
+![](https://i.imgur.com/mIIKypL.png)
+
+![](https://i.imgur.com/dcXz0X4.png)
+
+![](https://i.imgur.com/nZpAGTI.png)
+
+![](https://i.imgur.com/gT34YgU.png)
 
 
+1. iptables -t nat -A POSTROUTING -s 10.39.0.0/21 -o eth0 -j SNAT --to-source 192.168.122.73
 
+	10.39.0.0/21 ⇒ highest vlsm tree
+	192.168.122.73 ⇒ IP eth0 Strix
+
+![](https://i.imgur.com/TEbm2yt.png)
+
+![](https://i.imgur.com/UIuiZDh.png)
+
+![](https://i.imgur.com/FXQpBio.png)
